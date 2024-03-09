@@ -20,6 +20,8 @@ namespace PVDatabazeProjekt
             this.cena = cena;
             this.datumVyroby = datumVyroby;
         }
+        public Produkt() { }
+
         public int ID { get => id; set => id = value; }
         public string Nazev { get => nazev; set => nazev = value; }
         public float Cena { get => cena; set => cena = value; }

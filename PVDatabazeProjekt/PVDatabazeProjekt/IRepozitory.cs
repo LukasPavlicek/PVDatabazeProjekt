@@ -8,9 +8,9 @@ namespace PVDatabazeProjekt
 {
     public interface IRepozitory<T> where T : IBaseClass
     {
-        T GetByID(int id);
-        IEnumerable<T> GetAll();
-        void Save(T element);
-        void Delete(T element);
+        T PodleID(int id);
+        IEnumerable<T> Vsechny();
+        void Vlozeni(T element);
+        void Smazat(T element);
     }
 }

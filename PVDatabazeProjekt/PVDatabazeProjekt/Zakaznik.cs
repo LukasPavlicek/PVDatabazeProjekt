@@ -21,6 +21,7 @@ namespace PVDatabazeProjekt
             this.Adresa = adresa;
             this.TelefonCislo = telefonCislo;
         }
+        public Zakaznik() { }
 
         public int ID { get => id; set => id = value; }
         public string Jmeno { get => jmeno; set => jmeno = value; }

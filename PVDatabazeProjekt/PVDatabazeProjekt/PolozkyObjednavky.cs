@@ -21,6 +21,7 @@ namespace PVDatabazeProjekt
             this.Mnozstvi = mnozstvi;
             this.Cena = cena;
         }
+        public PolozkyObjednavky() { }
 
         public int IdProdukt { get => idProdukt; set => idProdukt = value; }
         public int IdObjednavky { get => idObjednavky; set => idObjednavky = value; }

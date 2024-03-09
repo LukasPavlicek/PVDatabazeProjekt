@@ -10,8 +10,8 @@ namespace PVDatabazeProjekt
     {
         static void Main(string[] args)
         {
-
-
+            Konzole konzole = new Konzole();
+            konzole.Start();
 
         }
     }

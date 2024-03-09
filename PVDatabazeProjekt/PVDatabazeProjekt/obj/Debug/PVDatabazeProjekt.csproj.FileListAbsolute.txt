@@ -1,0 +1,12 @@
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\bin\Debug\PVDatabazeProjekt.exe.config
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\bin\Debug\PVDatabazeProjekt.exe
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\bin\Debug\PVDatabazeProjekt.pdb
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\obj\Debug\PVDatabazeProjekt.csproj.AssemblyReference.cache
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\obj\Debug\PVDatabazeProjekt.csproj.CoreCompileInputs.cache
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\obj\Debug\PVDatabazeProjekt.csproj.CopyComplete
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\obj\Debug\PVDatabazeProjekt.exe
+C:\Users\lukap\Desktop\PVDatabazeProjekt\PVDatabazeProjekt\PVDatabazeProjekt\obj\Debug\PVDatabazeProjekt.pdb
